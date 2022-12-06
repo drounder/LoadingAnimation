@@ -7,11 +7,13 @@ allprojects {
 			...
 			maven { url 'https://jitpack.io' }
 		}
-	}'''
+	}
+	'''
   
 > Step 2. Add the dependency
 
 '''App gradle
 dependencies {
 	        implementation 'com.github.drounder:LoadingAnimation:Tag'
-	}'''
+	}
+	'''
