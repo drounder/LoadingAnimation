@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LoadingAnimation</string>
+    <string name="title_activity_main_t">MainActivityT</string>
 </resources>
